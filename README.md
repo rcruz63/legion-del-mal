@@ -7,4 +7,4 @@ Prueba del fork actualizado `Raul`
 
 ## Notas
 
-Se añadió rechazo solicitud de Fernando
+Se añadió rechazo solicitud de Fernando.
